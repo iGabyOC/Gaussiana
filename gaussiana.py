@@ -14,7 +14,9 @@ def Gaussiana(x,s,m):
     Gauss=a*b
     return Gauss
 
-x_valores=np.arange(-6,10,0.1)
+#x_valores=np.arange(-6,10,0.1)
+x_valores=np.arange(-10,15,0.1) 
+
 m1=3
 s1=1
 m2=0
